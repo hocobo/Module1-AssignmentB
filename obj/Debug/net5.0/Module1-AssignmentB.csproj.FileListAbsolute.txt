@@ -1,0 +1,16 @@
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\bin\Debug\net5.0\Module1-AssignmentB.exe
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\bin\Debug\net5.0\Module1-AssignmentB.deps.json
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\bin\Debug\net5.0\Module1-AssignmentB.runtimeconfig.json
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\bin\Debug\net5.0\Module1-AssignmentB.runtimeconfig.dev.json
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\bin\Debug\net5.0\Module1-AssignmentB.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\bin\Debug\net5.0\ref\Module1-AssignmentB.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\bin\Debug\net5.0\Module1-AssignmentB.pdb
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.csproj.AssemblyReference.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.AssemblyInfoInputs.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.AssemblyInfo.cs
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.csproj.CoreCompileInputs.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\ref\Module1-AssignmentB.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.pdb
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module4\Module1-AssignmentB\Module1-AssignmentB\obj\Debug\net5.0\Module1-AssignmentB.genruntimeconfig.cache
